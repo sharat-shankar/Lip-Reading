@@ -1,4 +1,4 @@
-# AI_CryptAu
+# Lip Reading
 
 
 Real Time Visual Speech Recognition
